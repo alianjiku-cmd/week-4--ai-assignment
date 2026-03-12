@@ -29,7 +29,7 @@ Unstructured data has no fixed schema and can have a more complex format, such a
               (NLP) and is a rich and diverse data source for generative AI (gen AI) models.
 
 4. SComplexity: Structured data is easier to manipulate and analyze for general business users with traditional tools.
-             Unstructured data can be more complex and requires specialized skills and tools to parse and analyze.
+                Unstructured data can be more complex and requires specialized skills and tools to parse and analyze.
 
 
 ## Question 3
