@@ -1,4 +1,4 @@
-# week-4--ai-assignment Week 4 Assignment
+# week-4--ai-assignment 
 
 Name: Alice Wanjiku
 
