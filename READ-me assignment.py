@@ -14,9 +14,9 @@ Data is a raw unorganised fact, symbols or observations that can be prossed meas
 Structured” and “unstructured” are terms used to classify data based on its format and schema rules or lack therefo.
 
 "Structured data"
-Structured data has a fixed schema and fits neatly into rows and columns, such as names and phone numbersStructured data is organized in a clear, predefined format. The standardized nature of structured data makes it easily decipherable by data analytics tools, machine learning algorithms and human users.
-
-Structured data can include both quantitative data (such as prices or revenue figures) and qualitative data (such as dates, names, addresses and credit card numbers). For example, a financial report with company names, expense values and reporting periods organized into rows and columns is considered structured data.
+-Structured data has a fixed schema and fits neatly into rows and columns, such as names and phone numbers. It is organized in a clear, predefined format.
+-The standardized nature of structured data makes it easily decipherable by data analytics tools, machine learning algorithms and human users.Structured data can include both quantitative data (such as prices or revenue figures) and qualitative data (such as dates, names, addresses and credit card numbers).
+  For example, a financial report with company names, expense values and reporting periods organized into rows and columns is considered structured data.
 
 
 "Unstructured data"
