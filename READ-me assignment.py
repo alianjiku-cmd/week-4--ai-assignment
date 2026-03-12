@@ -16,9 +16,22 @@ Structured” and “unstructured” are terms used to classify data based on it
 
    **Structured data**
 
--Structured data has a fixed schema and fits neatly into rows and columns, such as names and phone numbers. It is organized in a clear, predefined format.
--The standardized nature of structured data makes it easily decipherable by data analytics tools, machine learning algorithms and human users.Structured data can include both quantitative data (such as prices or revenue figures) and qualitative data (such as dates, names, addresses and credit card numbers).
-  For example, a financial report with company names, expense values and reporting periods organized into rows and columns is considered structured data.
+-Structured data has a fixed schema and fits neatly into rows and columns, such as names and phone numbers. 
+  It is organized in a clear, predefined format.
+-The standardized nature of structured data makes it easily decipherable by data analytics tools,
+  machine learning algorithms and human users.Structured data can include both quantitative data
+  (such as prices or revenue figures) and qualitative data (such as dates, names, addresses and credit card numbers).
+  For example, a financial report with company names, expense values and reporting periods
+  organized into rows and columns is considered structured data.
+
+  **TYPES OF DATA BIAS~~**
+  Selection/Sampling Bias: Occurs when data is not representative of the target population, such as 
+  overrepresenting or underrepresenting specific groups (e.g., in AI applications).
+Historical Bias: Reflects past societal prejudices and discriminatory practices present in legacy data.
+Measurement/Evaluation Bias: Results from inconsistent data collection, flawed instruments, or inappropriate metrics.
+Representation Bias: Arises when specific groups are underrepresented, causing models to perform poorly on them.
+Confirmation/Availability Bias: When data is chosen to support existing beliefs or, in the case of availability, 
+when data is used because it is easily accessible rather than representative
 
 
 **Unstructured data**
@@ -28,7 +41,8 @@ Unstructured data has no fixed schema and can have a more complex format, such a
   
 1. Format:Structured data has a strict, predefined data model. Unstructured data does not have a predefined format.
 
-2. Storage: Structured data storage systems have rigid schemas, such as those in relational databases or data warehouses. Unstructured data is often stored in its native format in nonrelational databases or data lakes.
+2. Storage: Structured data storage systems have rigid schemas, such as those in relational databases or data warehouses.
+            Unstructured data is often stored in its native format in nonrelational databases or data lakes.
 
 3. Use cases: Organizations can use both structured and unstructured data across artificial intelligence (AI) and analytics use cases. 
               Structured data is often used in machine learning (ML) and drives ML algorithms. Unstructured data is often used in natural language processing
@@ -78,3 +92,18 @@ Through machine learning techniques, AI transforms data into numerical matrices 
   ** Defination:~~**
 Bias in datasets refers to systematic errors or prejudices in data, causing machine learning models to produce inaccurate 
 or unfair outcomes, such as reinforcing stereotypes or underrepresenting groups.
+
+ ** TYPES OF BIAS **
+
+ 1.  **Selection/Sampling Bias**
+       Occurs when data is not representative of the target population, such as 
+       overrepresenting or underrepresenting specific groups (e.g., in AI applications).
+2. **Historical Bias**
+     Reflects past societal prejudices and discriminatory practices present in legacy data.
+3. **Measurement/Evaluation Bias**
+     Results from inconsistent data collection, flawed instruments, or inappropriate metrics.
+4. **Representation Bias** 
+     Arises when specific groups are underrepresented, causing models to perform poorly on them.
+5. **Confirmation/Availability Bias** 
+      When data is chosen to support existing beliefs or, in the case of availability, when data is used because it is easily accessible rather than representative
+  
