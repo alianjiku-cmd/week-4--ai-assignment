@@ -33,18 +33,26 @@ Unstructured data has no fixed schema and can have a more complex format, such a
 
 4. Complexity: Structured data is easier to manipulate and analyze for general business users with traditional tools.
                 Unstructured data can be more complex and requires specialized skills and tools to parse and analyze.
-The benefits of structured data.
-  Works well with machine learning: Machine learning can process both structured and unstructured data. However, it can be easier for ML applications to analyze and draw insights from structured data due to its specific and organized architecture.
 
-Accessible and easy to use: Understanding structured data does not require in-depth data science knowledge. Due to its standard format and high level of organization, most users find it easy to access and interpret structured data.
+"The benefits of structured data."
+  
+. Works well with machine learning: Machine learning can process both structured and unstructured data. However, it can be easier for ML applications to analyze and draw insights from structured data due to its specific and organized architecture.
 
-Abundance of tools: Structured data predates unstructured data, so there are more apps and tools available for use and data analysis. For example, online analytical processing (OLAP), SQLite, MySQL and PostgreSQL, among others.
-The challenges of structured data revolve around data inflexibility:
+. Accessible and easy to use: Understanding structured data does not require in-depth data science knowledge. Due to its standard format and high level of organization, most users find it easy to access and interpret structured data.
 
-Limited usage: Structured data has a predefined data model that can only be used for its intended purpose, which limits its flexibility and usability. Mining more insights requires modifications or additional data.
+. Abundance of tools: Structured data predates unstructured data, so there are more apps and tools available for use and data analysis. For example, online analytical processing (OLAP), SQLite, MySQL and PostgreSQL, among others.
+                      The challenges of structured data revolve around data inflexibility:
 
-Limited storage options: Structured data storage repositories typically have rigid schemas, such as those within a relational database or data warehouse. Changes to data requirements need updating all structured data, which is time and resource-intensive.
+. Limited usage: Structured data has a predefined data model that can only be used for its intended purpose, which limits its flexibility and usability. Mining more insights requires modifications or additional data.
 
+. Limited storage options: Structured data storage repositories typically have rigid schemas, such as those within a relational database or data warehouse. Changes to data requirements need updating all structured data, which is time and resource-intensive.
+
+"Use cases for structured data"
+(a) AI model training 
+(b) Customer relationship management (CRM)
+(c) Business intelligence (BI)
+(d) Inventory management
+(e) Search engine optimization (SEO) rich snippets
 ## Question 3
 How AI learns from data
 
