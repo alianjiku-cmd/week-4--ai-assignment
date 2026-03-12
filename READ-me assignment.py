@@ -66,11 +66,15 @@ Unstructured data has no fixed schema and can have a more complex format, such a
 
    **## Question 3**
 
-**How AI learns from data~~**
+##**How AI learns from data~~**
 
 AI learns from data by using algorithms to analyze large datasets, identifying patterns, 
 and adjusting internal parameters (weights) to improve predictive accuracy. 
 Through machine learning techniques, AI transforms data into numerical matrices to recognize relationships.
 
 ## Question 4
-Bias in datasets
+
+ ** Bias in datasets**
+  ** Defination:~~**
+Bias in datasets refers to systematic errors or prejudices in data, causing machine learning models to produce inaccurate 
+or unfair outcomes, such as reinforcing stereotypes or underrepresenting groups.
