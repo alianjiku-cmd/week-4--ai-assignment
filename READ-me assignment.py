@@ -89,6 +89,7 @@ Through machine learning techniques, AI transforms data into numerical matrices 
 ## Question 4
 
  ** Bias in datasets**
+  
   ** Defination:~~**
 Bias in datasets refers to systematic errors or prejudices in data, causing machine learning models to produce inaccurate 
 or unfair outcomes, such as reinforcing stereotypes or underrepresenting groups.
@@ -105,5 +106,6 @@ or unfair outcomes, such as reinforcing stereotypes or underrepresenting groups.
 4. **Representation Bias** 
      Arises when specific groups are underrepresented, causing models to perform poorly on them.
 5. **Confirmation/Availability Bias** 
-      When data is chosen to support existing beliefs or, in the case of availability, when data is used because it is easily accessible rather than representative
+      When data is chosen to support existing beliefs or, in the case of availability, 
+      when data is used because it is easily accessible rather than representative
   
