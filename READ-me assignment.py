@@ -5,7 +5,8 @@ Name: Alice Wanjiku
 ## Question 1.
 
 "Data"
-Defination
+Defination:
+Data is a raw unorganised fact, symbols or observations that can be prossed measured and analyzed analyzed to create information for decision-making.
 
 
 ## Question 2
