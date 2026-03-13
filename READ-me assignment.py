@@ -108,14 +108,15 @@ or unfair outcomes, such as reinforcing stereotypes or underrepresenting groups.
 5. **Confirmation/Availability Bias** 
       When data is chosen to support existing beliefs or, in the case of availability, 
       when data is used because it is easily accessible rather than representative
-     
-**Defination**~~
-AI revolutionizes attendance management by automating repetitive tasks and improving accuracy    
 
-** AI-driven capabilities:**
-1. **Facial Recognition for Clock**-Ins: Employees can clock in and out using AI-powered facial recognition, eliminating the risk of buddy punching.
-2. **Geofencing:* GPS-based geofencing ensures employees clock in only when they’re at the designated location, making it ideal for field teams.
-3.** Anomaly Detection:** AI analyzes attendance data to spot irregular patterns, such as frequent tardiness or unexplained absences.
-4. **Predictive Analytics:** By analyzing historical data, AI predicts potential absenteeism, allowing managers to optimize schedules proactively.
-5. **Automated Reporting:** AI generates detailed reports on attendance trends, saving time and effort.
-  
+###**Question 3**    
+
+** what is schema**
+**Defination:**~~ 
+schema is a blueprint or plan that defines the structure and organization of data. It outlines the
+rules and relationships for the data, without containing the actual data itself.
+It also helps simplify complex information, allows for quick processing, but can lead to stereotypes or rigid thinking.A schema is a structured framework or blueprint that organizes information, concepts, or data, acting as a mental model 
+in psychology to process experiences or a technical blueprint in computing defining database structure 
+(tables, fields, relationships). 
+
+
