@@ -119,4 +119,11 @@ It also helps simplify complex information, allows for quick processing, but can
 in psychology to process experiences or a technical blueprint in computing defining database structure 
 (tables, fields, relationships). 
 
+###Examples ofschema:
+** A Shopping List**
+1. Name:      Milk, 1 quart, Dairy
+2. Quantity:  Apples, 5, Produce
+3. Category:  Chip,2 bags & Snacks.
+
+
 
