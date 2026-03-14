@@ -125,5 +125,11 @@ in psychology to process experiences or a technical blueprint in computing defin
 2. Quantity:  Apples, 5, Produce
 3. Category:  Chip,2 bags & Snacks.
 
+# Question 4                                                                                                      4
+Print("hello AI student")
 
+
+# Question 5
+print ("Name: Alice")
+print("Age:30")
 
